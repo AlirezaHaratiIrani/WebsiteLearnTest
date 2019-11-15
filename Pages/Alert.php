@@ -23,7 +23,7 @@
         }
     </style>
 
-    <title>Grid Sample</title>
+    <title>Alert Sample</title>
 </head>
 
 <body>
