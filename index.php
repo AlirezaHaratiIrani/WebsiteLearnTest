@@ -1,6 +1,6 @@
 
 <?php
 
-header('Location: pages/login.php');
+header('Location: Pages/Grid.php');
 
 ?>
