@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/util.css">
 
     <style>
 
@@ -17,7 +18,7 @@
 
 <body>
     <div class="container">
-        <div class="row no-gutters bg-light position-relative">
+        <div class="row no-gutters bg-light position-relative m-t-20">
             <div class="col-md-6 mb-md-0 p-md-4">
                 <img src="https://cdn4.buysellads.net/uu/1/41334/1550855391-cc_dark.png" class="w-100" alt="...">
             </div>
