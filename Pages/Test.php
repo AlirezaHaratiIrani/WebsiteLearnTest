@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+$amin = "man amin hastam";
+?>
 <html lang="en">
 
 <head>
