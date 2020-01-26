@@ -1,6 +1,6 @@
 
 <?php
 
-header('Location: Pages/Grid.php');
+header('Location: TestJS/index.php');
 
 ?>
